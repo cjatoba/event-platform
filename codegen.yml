@@ -1,4 +1,4 @@
-schema: #Copy in graphcms.com Project Settings/ACCESS/API Access/Endpoints/Content API
+schema: https://api-sa-east-1.graphcms.com/v2/cl4o4ycmg0lbb01z7fczv83tf/master
 
 documents: './src/graphql/**/*.graphql'
 
